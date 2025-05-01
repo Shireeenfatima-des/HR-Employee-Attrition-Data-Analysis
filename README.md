@@ -28,7 +28,7 @@ This project leverages the dataset to gain insights into various aspects of empl
 2.	How many employees with high job satisfaction left the company?
 3.	What percentage of employees report a high work-life balance?
 	
-#### Training and Development
+### Training and Development
 1.	What is the average training time by department?
 2.	How many employees received no training in the last year?
 3.	What is the attrition rate for employees who received no training?
